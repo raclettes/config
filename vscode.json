@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "Ra Calm",
+    "window.nativeTabs": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always",
+    },
+    "workbench.iconTheme": "icons",
+    "window.customTitleBarVisibility": "never",
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "git.autofetch": true,
+    "editor.accessibilitySupport": "off",
+    "editor.tabSize": 2,
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#0d5a56",
+      "activityBar.foreground": "#eef0f0",
+      "activityBar.activeBackground": "#5d7d7a",
+      "activityBar.inactiveForeground": "#cfd6d5",
+      "titleBar.activeBackground": "#0c5451",
+      "statusBar.background": "#0d5a56",
+      "statusBar.foreground": "#eef0f0"
+    },
+    "colorbar.colors": {
+        "Navy Blue": "#000080",
+        "Indigo Blue": "#3f00ff",
+        "Eden Blue": "#0d5a56",
+        "Teal": "#48aaad",
+        "Torch Red": "#ce173b",
+        "RedWood": "#5a200d",
+        "Sepia": "#700214",
+        "Grape": "#663046",
+        "Bronze Olive": "#42490b",
+        "San Felix": "#1b5506",
+        "Avocado": "#568203",
+        "Dijon": "#c49102",
+        "Wolf": "#504a4b",
+        "Wood": "#3f301d"
+    },
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    // "editor.fontLigatures": true,
+    "workbench.fontAliasing": "antialiased",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "prisma.showPrismaDataPlatformNotification": false
+}
